@@ -1,0 +1,10 @@
+#toml==0.10.1
+#tqdm==4.61.0
+#tweepy==3.10.0
+#twitterscraper==1.6.1
+#urllib3==1.26.5
+#virtualenv==20.0.27
+#Werkzeug==1.0.1
+#wordcloud==1.8.1
+#wrapt==1.12.1
+#zope.interface==5.4.0
